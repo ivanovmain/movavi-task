@@ -1130,6 +1130,7 @@ a {
   position: absolute;
   height: 0;
   width: 0;
+  visibility: hidden;
 }
 
 .footer__form-checkbox:checked ~ .footer__form-checkbox-lable::after {
